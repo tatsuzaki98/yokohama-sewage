@@ -1,0 +1,1 @@
+kankyo_with_constymdは、kankyo_mergeのうち、敷設年ymdが有効なものを抽出したものです。
